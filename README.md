@@ -234,7 +234,7 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 ## Congrats!
 
-Phew! That was a lot of work, but now you are all set to use git and github.
+Phew! That was a lot of work, but now you are all set.
 
 
 
