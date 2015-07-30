@@ -1,7 +1,4 @@
----
-tags: setup, environment, bash, kids
-languages: ruby
----
+
 
 ## Environment Setup for Students Using Chromebooks
 Having trouble with the Chrubuntu install script. No worries! Follow the steps below to get set up.
