@@ -250,4 +250,4 @@ Phew! That was a lot of work, but now you are all set.
 
 
 
-<a href='https://learn.co/lessons/hs-chromebook-setup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-chromebook-setup' title='Environment Setup for Students Using Chromebooks'>Environment Setup for Students Using Chromebooks</a> on Learn.co and start learning to code for free.</p>
